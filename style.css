@@ -1,0 +1,37 @@
+/*
+1.Inline VS Block Element
+2.Box Model
+3.Border
+4.Padding
+5.Margin
+6.Box Sizing
+*/
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.box-one{
+    background: orange;
+    color: white;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    border: 10px dashed black;
+    margin-bottom: 50px;
+}
+
+.box-two{
+    background: rgb(255, 4, 4);
+    color: white;
+    width: 250px;
+    height: 250px;
+    mar 
+}
+a{
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 40pxs;
+    padding: 20px;
+    background-color: aqua;
+}
